@@ -1,0 +1,9 @@
+.slick-list {
+  padding: 20px !important;
+}
+
+.carousel-icon {
+  border: 1px solid black;
+  border-radius: 50%;
+  padding: 10px;
+}
